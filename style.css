@@ -1,0 +1,9 @@
+.header {
+  background-color: #33ff33;
+  color: black;
+}
+.x {
+  background-color: red;
+  color: white;
+  border: 2px solid black;
+}
