@@ -3,11 +3,18 @@
 <div>
   Name: Xaoiui
   Birth day (DD/MM/YY): 06/10/26
+  Age: 17
+
+  Hobbies:
+  - Coding
+  - Witchcraft
+  - Drawing
+  - Gaming
 </div>
 
 
 Computers:
-- Clicky
+- [Clicky](https://github.com/xaoiui/my-dotfiles/tree/main/Clicky)
 - Computery
 
   
@@ -16,9 +23,6 @@ Programming languages:
 - HTML and css
 - Java
 - Phython
-
-<img src="https://file.garden/Zp7axJULhU5jHB3C/graphics/twinkles.gif">
-<img src="https://valkyrhi.neocities.org/graphics/stamps/strawberryaddict.gif">
 
 <p style="width: 90%; font-weight: bold;" align="center">°˖✧☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★✦°˖</p>
 
