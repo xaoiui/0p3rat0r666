@@ -1,7 +1,7 @@
 // banner
 // maybe stimboards too
 <head>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://github.com/xaoiui/0p3rat0r666/blob/main/style.css">
   <!-- <link rel="stylesheet" href="mystyle.css"> -->
 </head>
 
