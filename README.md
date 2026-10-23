@@ -1,8 +1,17 @@
 // banner
 // maybe stimboards too
 <head>
-  <link rel="stylesheet" href="https://github.com/xaoiui/0p3rat0r666/blob/main/style.css">
-  <!-- <link rel="stylesheet" href="mystyle.css"> -->
+  <style>
+    .header {
+      background-color: #33ff33;
+      color: black;
+    }
+    .x {
+      background-color: red;
+      color: white;
+      border: 2px solid black;
+    }
+  </style>
 </head>
 
 <div class="box">
