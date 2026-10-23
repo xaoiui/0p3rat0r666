@@ -14,7 +14,7 @@
   </style>
 </head>
 
-<div class="box">
+<div class="box" style="border: 2px solid #33ff33;">
 <div class="header"><p class="x">X</p></div>
 
 <div>
