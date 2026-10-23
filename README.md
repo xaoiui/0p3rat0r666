@@ -1,5 +1,4 @@
-// banner
-// maybe stimboards too
+<p style="width: 90%; font-weight: bold;" align="center">°˖✧☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★✦°˖</p>
 
 <div>
   Name: Xaoiui
@@ -23,4 +22,4 @@ Programming languages:
 
 <p style="width: 90%; font-weight: bold;" align="center">°˖✧☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★✦°˖</p>
 
-//thing here
+<p align="center" style="font-weight: bold;">°˖✧XAOIUI✦°˖</p>
