@@ -1,7 +1,9 @@
 // banner
 // maybe stimboards too
-<script src="script.js"></script>
-<style src="style.css"></style>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <!-- <link rel="stylesheet" href="mystyle.css"> -->
+</head>
 
 <div class="box">
 <div class="header"><p class="x">X</p></div>
